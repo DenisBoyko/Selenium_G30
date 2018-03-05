@@ -1,0 +1,6 @@
+2018-03-05 20:56:07,931 INFO [main] db.TestDataBase.setUp(TestDataBase.java:24) - --- Test STARTED --------
+2018-03-05 20:56:07,934 INFO [main] db.TestDataBase.setUp(TestDataBase.java:25) - --- Connect MySQL DB --------
+2018-03-05 20:56:08,458 INFO [main] db.DataBase.<init>(DataBase.java:31) - Connection: com.mysql.jdbc.JDBC4Connection@48524010
+2018-03-05 20:56:08,458 INFO [main] db.TestDataBase.setUp(TestDataBase.java:27) - --- Connected to MySQL --------
+2018-03-05 20:56:08,464 INFO [main] db.TestDataBase.testSingleValue(TestDataBase.java:34) - Result value is Leo
+2018-03-05 20:56:08,466 INFO [main] db.TestDataBase.tearDown(TestDataBase.java:79) -  ----- Test FINISHED  -----
